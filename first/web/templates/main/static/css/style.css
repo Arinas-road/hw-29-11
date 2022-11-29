@@ -1,0 +1,12 @@
+body{
+   font-family: monospace;
+   background: linear-gradient(to right, rgb(13, 0, 255) 0%, rgb(81, 0, 255) 50%, rgb(136, 0, 255) 100%);
+}
+
+table{
+   border-collapse: collapse;
+}
+
+td,th{
+   border: 2px solid #000;
+}
